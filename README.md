@@ -24,3 +24,7 @@ Fetch: getting your updated changes from an online repository without merging th
 Remote: a version whose host is a server, which can be connected to local clones.
 
 # Tutorial
+
+# References
+https://help.github.com/en/github/getting-started-with-github/github-glossary 
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
