@@ -36,7 +36,7 @@ Remote: a version whose host is a server, which can be connected to local clones
 
 6. Now, create a new file in Webstorm, type your code, and then click on the VCS tab > Import into Version Control > Create Git Repository. Then, click OK once it shows you the path of where the file will be stored.
 
-7. Next, commit the changes to Git by going to VCS > Git > Commit File
+7. Next, commit the changes to Git by going to VCS > Git > Commit File.
 
 8. Make sure to select the correct file to commit, add a description of your changes, then click Commit.
 
