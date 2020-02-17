@@ -1,4 +1,5 @@
 # A03
+# Definitions
 GIT: an open source program that is used to track changes in text files.
 
 GITHUB: internet based version control system.
