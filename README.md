@@ -32,7 +32,7 @@ Remote: a version whose host is a server, which can be connected to local clones
 
 4. Once it is downloaded, open up WebStorm and then go to File > Settings > Version Control > Git. Make sure that the path to Git is valid by clicking on Test.
 
-5. Once it shows you the version of Git that was downloaded click OK. Then, in settings, go to Behavior > System Settings > Passwords
+5. Once it shows you the version of Git that was downloaded click OK.
 
 6. Now, create a new file in Webstorm, type your code, and then click on the VCS tab > Import into Version Control > Create Git Repository. Then, click OK once it shows you the path of where the file will be stored.
 
